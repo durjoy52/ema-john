@@ -1,0 +1,15 @@
+.review-items-container {
+  margin: 0 auto;
+}
+.proceed-btn {
+  width: 421px;
+  height: 56px;
+  background: #ff9900;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 17px;
+  border: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
